@@ -83,7 +83,7 @@ The right-hand-side 3.3V connection pin is otherwise **NC**, so this connection 
 
 ---
 
-## ESP32-CAM-MB Pinout
+## ESP32-CAM-MB Pinout and Wiring Modifications
 
 ![ESP32-CAM-MB Pinout](ESP32-CAM-MB%20Pinout.png)
 
