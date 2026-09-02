@@ -1,4 +1,4 @@
-# ESP8266: Program (with ESP32-CAM-MB or without)
+# ESP8266: How to Program (with ESP32-CAM-MB or without)
 
 Step-by-step guide to programming an ESP8266 using an **ESP32-CAM-MB board programmer** or another USB-to-serial programmer.
 
